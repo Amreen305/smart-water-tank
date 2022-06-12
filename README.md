@@ -1,2 +1,4 @@
 # smart-water-tank
-Iot project using nodemcu board to measure the water level in the tank. The level of the water in the tank is shown in the mobile application 
+Iot project using nodemcu board to measure the water level in the tank. The level of the water in the tank is shown in the mobile application.
+
+This project gives us a proper insight into water conversion through the application of a water level monitoring system. Industries and homes where water is used to large extent can implement the given model to get the information about water level in real -time. An ultrasonic sensor and NodeMCU microcontroller are used to achieve the given results. Using the power of internet, simplification can be further achieved for the users as they will be able to view data from anywhere and thereby giving the users the power to monitor it from anywhere and giving them power to achieve the control of water loss from everywhere. The need for this control the situation will worsen further.
